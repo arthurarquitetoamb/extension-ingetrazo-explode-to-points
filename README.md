@@ -33,4 +33,6 @@ To change the marker size, edit `POINT_MARKER_SIZE` in `explode_to_points.py` (d
 ## Notes
 
 - Original-object deletion is best-effort depending on selection/context.
-
+- A point consists of a group of intersecting edges; therefore, Intersection Snap should be used for precision if lines are to be constructed over them.
+  
+<img width="424" height="376" alt="Intersection" src="https://github.com/user-attachments/assets/7fc32626-64ba-42f6-88dd-df69974ebb6c" />
