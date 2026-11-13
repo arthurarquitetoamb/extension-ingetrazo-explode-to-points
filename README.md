@@ -33,4 +33,4 @@ To change the marker size, edit `POINT_MARKER_SIZE` in `explode_to_points.py` (d
 ## Notes
 
 - Original-object deletion is best-effort depending on selection/context.
-- A `LICENSE` file is not included yet; add one before publishing if needed.
+
